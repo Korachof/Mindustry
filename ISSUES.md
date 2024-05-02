@@ -1,4 +1,10 @@
-# Why was my issue closed?
+# Issues
+
+## Where to go if you have issues
+
+For issue requests (bugs, security issues, etc.), go [here](https://github.com/Anuken/Mindustry/issues/new/choose)
+
+## Why was my issue closed?
 
 This document goes over some common causes for issue closures.
 
