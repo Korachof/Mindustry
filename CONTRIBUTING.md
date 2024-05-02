@@ -75,3 +75,5 @@ Unless a block of code is very large or used in more than 1-2 places, don't spli
 
 ## Other Notes
 If you would like your name to appear in the game's credits, add it to the [list of contributors](https://github.com/Anuken/Mindustry/blob/master/core/assets/contributors) as part of your PR.
+
+If you have any other questions or need any help, please visit [The Help Section of Our Discord Page](https://discord.com/channels/391020510269669376/477494303061442571).
